@@ -1,6 +1,6 @@
 # Linux Lightweight IoT Client
 
-The Lightweight Client is for use within Devices that can interwork with Nokia product for Device Management.
+The Lightweight Client is for use within Devices that can interwork with Motive products for IoT Device Management.
 
 The Lightweight Client is for Linux. For the purposes of compatibility the use main commands below have been tested on Raspbian which is for the Raspberry Pi.
 
@@ -92,7 +92,7 @@ LWM2M_CLIENT_MODE and LWM2M_SERVER_MODE can be defined at the same time.
 
 Install the lightweight-iot-client on ``/home/pi``
 
-``git clone https://github.com/nokia/lightweight-iot-client.git``
+``git clone https://github.com/cgreali/lightweight-iot-client.git``
 
 ``cd lightweight-iot-client``
 
